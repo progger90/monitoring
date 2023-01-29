@@ -1,0 +1,14 @@
+.employees {
+    width: 700px;
+    height: 500px;
+    margin: 20px auto;
+}
+
+.item {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(../img/icon.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
